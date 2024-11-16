@@ -1,0 +1,13 @@
+ font-family: "Playfair", serif;
+
+ font-family: "Ubuntu", sans-serif;
+ font-weight: 300;
+
+ color: #626262;
+ 000000
+ Terms and conditions
+			Privacy
+		Follow
+				"images/facebook.jpg">
+				"images/x.jpg">
+				images/insta.jpg">
